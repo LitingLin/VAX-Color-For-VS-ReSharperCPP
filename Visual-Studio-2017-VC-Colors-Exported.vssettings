@@ -1,0 +1,60 @@
+<UserSettings>
+  <ApplicationIdentity version="15.0"/>
+  <ToolsOptions>
+    <ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
+  </ToolsOptions>
+  <Category name="Environment_Group" RegisteredName="Environment_Group">
+    <Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+      <PropertyValue name="Version">2</PropertyValue>
+      <FontsAndColors Version="2.0">
+        <Theme Id="{1DED0138-47CE-435E-84EF-9EC1F439B749}"/>
+        <Categories>
+          <Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontIsDefault="Yes">
+            <Items>
+              <Item Name="ReSharper C++ Class Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Struct Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Enum Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Union Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Namespace Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Local Variable Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Parameter Variable Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Global Variable Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Class Field Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Struct Field Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Enum Enumerator Identifier" Foreground="0x00C563BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Union Member Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Typedef Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Local Typedef Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Global Function Identifier" Foreground="0x000080FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Member Function Identifier" Foreground="0x000080FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Overloaded Operator Identifier" Foreground="0x000080FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Template Parameter Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C++ Dependent Name Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="CppEnumSemanticTokenFormat" Foreground="0x00C563BD" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppGlobalVariableSemanticTokenFormat" Foreground="0x006BB7BD" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppLocalVariableSemanticTokenFormat" Foreground="0x006BB7BD" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppParameterSemanticTokenFormat" Foreground="0x006BB7BD" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppTypeSemanticTokenFormat" Foreground="0x0000D7FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppRefTypeSemanticTokenFormat" Foreground="0x0000D7FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppValueTypeSemanticTokenFormat" Foreground="0x0000D7FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppFunctionSemanticTokenFormat" Foreground="0x000080FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppMemberFunctionSemanticTokenFormat" Foreground="0x000080FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppMemberFieldSemanticTokenFormat" Foreground="0x006BB7BD" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppStaticMemberFunctionSemanticTokenFormat" Foreground="0x000080FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppStaticMemberFieldSemanticTokenFormat" Foreground="0x006BB7BD" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppPropertySemanticTokenFormat" Foreground="0x006BB7BD" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppEventSemanticTokenFormat" Foreground="0x006BB7BD" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppClassTemplateSemanticTokenFormat" Foreground="0x0000D7FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppGenericTypeSemanticTokenFormat" Foreground="0x0000D7FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppFunctionTemplateSemanticTokenFormat" Foreground="0x000080FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppNamespaceSemanticTokenFormat" Foreground="0x0000D7FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppLabelSemanticTokenFormat" Foreground="0x0000D7FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppOperatorSemanticTokenFormat" Foreground="0x000080FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="CppMemberOperatorSemanticTokenFormat" Foreground="0x000080FF" Background="0x02000000" BoldFont="No"/>
+            </Items>
+          </Category>
+        </Categories>
+      </FontsAndColors>
+    </Category>
+  </Category>
+</UserSettings>
