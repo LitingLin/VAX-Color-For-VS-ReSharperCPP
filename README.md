@@ -1,5 +1,6 @@
 # VAX-Color-For-VS-ReSharperCPP
 Visual Assist X Color Scheme For Visual C++ With ReSharper C++.
+dd Visual Assist X Color Scheme For Visual C# With ReSharper .NET.
 
 # Using
 Import the corresponding .vssettings file in TOOLS-Import and Export Settings.
