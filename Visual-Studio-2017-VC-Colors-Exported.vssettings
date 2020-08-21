@@ -51,6 +51,30 @@
               <Item Name="CppLabelSemanticTokenFormat" Foreground="0x0000D7FF" Background="0x02000000" BoldFont="No"/>
               <Item Name="CppOperatorSemanticTokenFormat" Foreground="0x000080FF" Background="0x02000000" BoldFont="No"/>
               <Item Name="CppMemberOperatorSemanticTokenFormat" Foreground="0x000080FF" Background="0x02000000" BoldFont="No"/>
+              <Item Name="ReSharper C# Accessor Identifier" Foreground="0x000080FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Class Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Constant Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Delegate Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Enum Identifier" Foreground="0x00C563BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Escape Character 1" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Escape Character 2" Foreground="0x00C563BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Event Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Extension Method Identifier" Foreground="0x00AADCDC" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Field Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Interface Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Late Bound Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Local Function Identifier" Foreground="0x000080FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Local Variable Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Method Identifier" Foreground="0x000080FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Mutable Local Variable Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Namespace Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Parameter Identifier" Foreground="0x00FEDC9C" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Property Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Static Class Identifier" Foreground="0x0000D7FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Static Filed Identifier" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Static Method Identifier" Foreground="0x000080FF" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Struct Identifier" Foreground="0x0091C686" Background="0x01000001" BoldFont="No"/>
+              <Item Name="ReSharper C# Tuple Component Name" Foreground="0x006BB7BD" Background="0x01000001" BoldFont="No"/>
             </Items>
           </Category>
         </Categories>
