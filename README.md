@@ -1,5 +1,6 @@
 # VAX Color For VS ReSharperCPP and Reshaper C#
 Visual Assist X Color Scheme For Visual C++ With ReSharper C++.
+
 Visual Assist X Color Scheme For Visual C# With ReSharper .NET.
 
 # Using
